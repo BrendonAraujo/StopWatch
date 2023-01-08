@@ -1,3 +1,3 @@
 # StopWatch
 
-It is a StopWath in a console.
+It is a StopWath in console create in C#.
